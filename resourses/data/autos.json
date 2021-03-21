@@ -1,0 +1,14 @@
+[
+	{
+		"id" 	: 1,
+		"foto" 	: "vehiculo01.jpg",
+		"marca" : "Tesla",
+		"modelo": "Model S",
+		"anio" 	: "2016",
+		"motor" : {
+			"desplazamiento": "1.6L",
+			"potencia" 		: "110 HP",
+			"rendimiento"	: "14 K/L"
+		}
+	}
+]
