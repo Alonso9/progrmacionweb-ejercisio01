@@ -1,7 +1,7 @@
 [
 	{
 		"id" 	: 1,
-		"foto" 	: "vehiculo01.jpg",
+		"foto" 	: "../img/vehiculo01.jpg",
 		"marca" : "Tesla",
 		"modelo": "Model S",
 		"anio" 	: "2016",
@@ -11,4 +11,4 @@
 			"rendimiento"	: "14 K/L"
 		}
 	}
-]
+];
